@@ -21,7 +21,7 @@ Add New Patient Form
 ![image alt]()
  Form to add new patient records
 About Page
-![image alt]()
+![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/4543de4b437fc42372ee8da3313175198717bac4/Screenshot%202025-10-16%20094348.png)
  
 Technologies Used:
 •	React: UI library for building the interface
