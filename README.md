@@ -18,7 +18,7 @@ Patients Dashboard
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/59d1e28ccf15ef30382968d665a47bd0ddf68a3a/Screenshot%202025-10-16%20094326.png)
  Responsive grid layout displaying patient cards with search functionality
 Add New Patient Form
-![image alt]()
+![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/19bc1a4c49a3dde1f858e75128026a18d2d12847/Screenshot%202025-10-16%20094412.png)
  Form to add new patient records
 About Page
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/4543de4b437fc42372ee8da3313175198717bac4/Screenshot%202025-10-16%20094348.png)
