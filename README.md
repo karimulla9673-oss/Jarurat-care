@@ -13,13 +13,10 @@ Features:
 Screenshots:
 Home Page
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/62ddc109dc701bf4a76e2683e7d62bcafd2980a7/Screenshot%202025-10-16%20094219.png)
- Landing page with navigation and welcome section
 Patients Dashboard
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/59d1e28ccf15ef30382968d665a47bd0ddf68a3a/Screenshot%202025-10-16%20094326.png)
- Responsive grid layout displaying patient cards with search functionality
 Add New Patient Form
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/19bc1a4c49a3dde1f858e75128026a18d2d12847/Screenshot%202025-10-16%20094412.png)
- Form to add new patient records
 About Page
 ![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/4543de4b437fc42372ee8da3313175198717bac4/Screenshot%202025-10-16%20094348.png)
  
@@ -28,11 +25,13 @@ Technologies Used:
 •	React Hooks: useState, useEffect for state management
 •	Lucide React: Icon library for UI elements
 •	JSONPlaceholder API: Free API for testing and prototyping
+
 Prerequisites:
 Before you begin, ensure you have the following installed:
 •	Node.js (v14.0 or higher)
 •	npm (v6.0 or higher)
-Installation & Setup
+
+Installation & Setup:
 Step 1: Clone the Repository
 git clone https://github.com/yourusername/patient-records-dashboard.git
 cd patient-records-dashboard
@@ -43,28 +42,43 @@ npm start
 The application will open in your browser at http://localhost:3000
 
 Project Structure:
-patient-records-dashboard/
+JARURATCARE/
+├── node_modules/
 ├── public/
-│   ├── index.html
-│   
 ├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── AboutPage.jsx
+│   │   ├── AddPatientModal.jsx
+│   │   ├── Header.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── Modal.jsx
+│   │   └── PatientsPage.jsx
+│   ├── App.css
 │   ├── App.jsx              
-│   ├── index.js            
-│   └── index.css           
+│   ├── index.css            
+│   └── main.jsx           
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
 ├── package.json
 ├── README.md
-└── .gitignore
+└── vite.config.js
 
 Usage:
-Viewing Patients
+
+Viewing Patients:
 1.	Navigate to the Patients page from the navigation bar
 2.	Browse through the patient cards displaying name, age, and contact information
 3.	Use the search bar to filter patients by name in real-time
-Viewing Patient Details
+4.	
+Viewing Patient Details:
 1.	Click the View Details button on any patient card
 2.	A modal will open showing complete patient information
 3.	Close the modal by clicking the X button or outside the modal
-Adding a New Patient
+
+Adding a New Patient:
 1.	Click the Add New Patient button on the Patients page
 2.	Fill in the form with patient details: 
 o	Full Name
