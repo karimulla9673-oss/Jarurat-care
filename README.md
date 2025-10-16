@@ -12,17 +12,16 @@ Features:
 
 Screenshots:
 Home Page
-https://github.com/karimulla9673-oss/Jarurat-care/blob/62ddc109dc701bf4a76e2683e7d62bcafd2980a7/Screenshot%202025-10-16%20094219.png
+![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/62ddc109dc701bf4a76e2683e7d62bcafd2980a7/Screenshot%202025-10-16%20094219.png)
  Landing page with navigation and welcome section
 Patients Dashboard
-https://github.com/karimulla9673-oss/Jarurat-care/blob/59d1e28ccf15ef30382968d665a47bd0ddf68a3a/Screenshot%202025-10-16%20094326.png
+![image alt](https://github.com/karimulla9673-oss/Jarurat-care/blob/59d1e28ccf15ef30382968d665a47bd0ddf68a3a/Screenshot%202025-10-16%20094326.png)
  Responsive grid layout displaying patient cards with search functionality
-Patient Details Modal
- Detailed view of patient information in a modal
 Add New Patient Form
+![image alt]()
  Form to add new patient records
-Mobile Responsive View
- Fully responsive design for mobile devices
+About Page
+![image alt]()
  
 Technologies Used:
 •	React: UI library for building the interface
