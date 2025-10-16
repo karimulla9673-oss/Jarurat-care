@@ -12,6 +12,7 @@ Features:
 
 Screenshots:
 Home Page
+https://github.com/karimulla9673-oss/Jarurat-care/blob/62ddc109dc701bf4a76e2683e7d62bcafd2980a7/Screenshot%202025-10-16%20094219.png
  Landing page with navigation and welcome section
 Patients Dashboard
  Responsive grid layout displaying patient cards with search functionality
